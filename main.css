@@ -38,6 +38,13 @@ input {
   color: #FFFFFF;
 }
 
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px
+}
 .go{
   background-color: #E4F53B;
   font-size: 20px;
